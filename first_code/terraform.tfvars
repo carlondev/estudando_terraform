@@ -1,0 +1,5 @@
+resource_group_name = "prod-rg"
+location            = "West US"
+vm_name             = "prod-vm"
+admin_username      = "admin"
+admin_password      = "SenhaSegura123!"
