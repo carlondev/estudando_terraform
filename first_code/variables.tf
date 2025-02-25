@@ -23,11 +23,6 @@ variable "nic_name" {
     default = "subnet-test"
 }
 
-variable "nic_name" {
-    type    = string
-    default = "nic-test"
-}
-
 variable "vm_name" {
     type    = string
     default = "vm-test"
@@ -35,7 +30,7 @@ variable "vm_name" {
 
 variable "admin_username" {
     type    = string
-    default = "adminuser" 
+    default = "super_carlos" 
 }
 
 variable "admin_password" {
